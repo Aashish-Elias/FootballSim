@@ -1,4 +1,5 @@
 # IMPORT DISCORD.PY. ALLOWS ACCESS TO DISCORD'S API.
+# Made with Aaron D Cunha - https://github.com/AaronDcunha
 import discord
 import asyncio
 import random
