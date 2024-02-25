@@ -622,6 +622,3 @@ async def ovr(interaction:discord.Interaction, team:str):
         msg = response
     await interaction.response.send_message(str(team +" : "+ str(msg)))
     
-
-# EXECUTES THE BOT WITH THE SPECIFIED TOKEN. TOKEN HAS BEEN REMOVED AND USED JUST AS AN EXAMPLE.
-bot.run("MTExNjEyNzIxNDczMjMyMDg4OA.G7OPf2.nEQJQmsdCJMtUV83OTugCy7zzx7Jgqdm8RjxRQ")
